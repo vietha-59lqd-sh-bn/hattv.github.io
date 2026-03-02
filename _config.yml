@@ -12,7 +12,7 @@ keywords: tuanlda78202, tuanleducanh78202, leducanhtuan, le-duc-anh-tuan, tuan-l
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: website.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://tuanlda78202.github.io # the base hostname & protocol for your site
+url: https://hattv.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -56,7 +56,7 @@ max_width: 1000px
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: https://tuanlda78202.github.io/assets/img/wide.JPG # The site-wide (default for all links) Open Graph preview image
+og_image: https://hattv.github.io/assets/img/wide.JPG # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
