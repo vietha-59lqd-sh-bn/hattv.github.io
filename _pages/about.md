@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi, I’m River! A Public Relations student passionate about storytelling, brand communication, and social media culture. I’m particularly interested in how brands build emotional connections with audiences through content, community, and everyday digital interactions. Through my experiences working with small brands and student projects, I enjoy turning ideas into engaging stories that resonate with people online.
