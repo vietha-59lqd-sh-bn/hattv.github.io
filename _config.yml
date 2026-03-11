@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Le Duc Anh Tuan # the website title (if blank, full name will be used instead)
-first_name: Le Duc Anh Tuan
+title: Tran Thi Viet Ha  # the website title (if blank, full name will be used instead)
+first_name: Tran Thi Viet Ha
 last_name:
-email: tuanleducanh78202@gmail.com
+email: vietha13022006@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi, I'm Charles - an AI Researcher and Engineer focused on LLM systems. My experience spans AI research (ML, CV, Speech) to applications (LLMs, RecSys), across the stack from GPU kernel optimization (CUDA, HIP) to large-scale LLM system design, training, and serving.
-keywords: tuanlda78202, tuanleducanh78202, leducanhtuan, le-duc-anh-tuan, tuan-le-duc-anh, llm, llm-engineer, machine-learning, deep-learning, computer-vision, mlops, llmops, pytorch, conversational-ai, multimodal, recommendation-system, vietnam
+  Hi, I’m River! A Public Relations student passionate about storytelling, brand communication, and social media culture. I’m particularly interested in how brands build emotional connections with audiences through content, community, and everyday digital interactions. Through my experiences working with small brands and student projects, I enjoy turning ideas into engaging stories that resonate with people online.
+keywords: vietha13022006, tranthivietha
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: website.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://hattv.github.io # the base hostname & protocol for your site
+url: https://vietha-59lqd-sh-bn.github.io/hattv.github.io
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
